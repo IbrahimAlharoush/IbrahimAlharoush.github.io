@@ -1,0 +1,24 @@
+file_format = "0.1.1"
+tags = [ "Marketing", "Public relations" ]
+
+[data]
+name = "Hamwi"
+profile_image = "https://docs.python.org/3/_static/py.svg"
+user_description = "Description for user goes here"
+payment_methods = [ "Crypto Currency" ]
+available = true
+allow_listing = true
+hourly_rate = 5
+
+[[data.website]]
+text = "http://example.com"
+id = "7yg8wz8yh"
+
+[[services]]
+category = "Marketing"
+sub_category = "Public relations"
+title = "electronic marketing"
+description = "marketing over internet"
+price = 5
+service_image = [ "https://docs.python.org/3/_static/py.svg" ]
+id = "sg8jieut0"
